@@ -23,7 +23,7 @@ Contributed by Hee-Jun Jung
 
     *Xin Wang, Hong Chen, Si'ao Tang, Zihao Wu, Wenwu Zhu.*
     
-2. Learning Disentangled Representations in the Imaging Domain. Medical Image Analysis, 2022. [paper](Learning Disentangled Representations in the Imaging)
+2. Learning Disentangled Representations in the Imaging Domain. Medical Image Analysis, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S1361841522001633)
     
     *Xiao Liu, Pedro Sanchez, Spyridon Thermos, Alison Q. O’Neil, Sotirios A. Tsaftaris.*
     
