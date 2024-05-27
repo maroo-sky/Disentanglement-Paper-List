@@ -40,9 +40,9 @@ More papers will be update.
 
     *Giangiacomo Mercatali, Andre Freitas, Vikas Garg.*
     
-3. **Disentangling Autoencoders (DAE)**. ArXiv, 2022. [paper](Jaehoon Cha, Jeyan Thiyagalingam)
+3. **Orthogonality-Enforced Latnet Sapce in Autoencoders: An approach to learning disentangled representations**. PMLR, 2023 [paper](https://proceedings.mlr.press/v202/cha23b/cha23b.pdf)
 
-    *Jaehoon Cha, Jeyan Thiyagalingam.*
+    *Jaehoon Cha, Jeyan Thiyagalingam*
     
 4. **Towards Building A Group-based Unsupervised Representation Disentanglement Framework**. ICLR, 2022. [paper](https://arxiv.org/abs/2102.10303)
     
@@ -116,6 +116,18 @@ More papers will be update.
 
     *Sangho Lim, Eun-Gyeol Oh, Hongseok Yang*
     
+22. **Homomorphism AutoEncoder - learning group structured representations from observed transitions.** ICML, 2022. [paper](https://proceedings.mlr.press/v202/keurti23a/keurti23a.pdf)
+    
+    *Hamza Keurti, Hsiao-Ru Pan, Michel Besserve, Benjamin Grewe, Bernhard Scholkopf*
+
+23. **Quantifying and Learning Linear Symmetry-Based Disentanglement** ICML, 2022. [paper](https://proceedings.mlr.press/v162/tonnaer22a/tonnaer22a.pdf)
+
+    *Loek Tonnaer, Luis A. Perez Rey, Vlado Menkovski, Mike Holenderski, Jacobus W. Portegies*
+
+24. **Explorations in Homeomorphic Variational Auto-Encoder.** ICML, 2018. [paper](https://arxiv.org/pdf/1807.04689)
+
+    *Luca Falorsi, Pim de Haan, Tim R. Davidson, Nicola De Cao, Maurice Weiler, Patrick Forre, Taco S. Cohen*
+    
 #### 3.2 Unsupervised
 
 1. **Auto-encoding variational bayes**. ArXiv, 2013. [paper](https://arxiv.org/abs/1312.6114)
@@ -134,7 +146,7 @@ More papers will be update.
 
     *Yeonwoo Jeong, Hyun Oh Song.*
     
-5. **ControlVAE: Controllable Variational Autoencoder**. ICML, 2020. [paper](ControlVAE: Controllable Variational Autoencoder)
+5. **ControlVAE: Controllable Variational Autoencoder**. ICML, 2020. [paper](https://proceedings.mlr.press/v119/shao20b/shao20b.pdf)
 
     *Huajie Shao, Shuochao Yao, Dachun Sun, Aston Zhang, Shengzhong Liu, Dongxin Liu, Jun Wang, Tarek Abdelzaher.*
     
@@ -178,8 +190,38 @@ More papers will be update.
 
     * Ning Miao, Emile Mathieu, Siddharth N, Yee Whye Teh, Tom Rainforth
     
+16. **Learning disentangled representations via product manifold projection.** ICML, 2021. [paper](https://proceedings.mlr.press/v139/fumero21a/fumero21a.pdf)
+
+    *Marco Fumero, Luca Cosmo, Simone Melzi , Emanuele Rodola*
+
+17. **Disentanglement via latent quantization.**, NeurIPS, 2023. [paper](https://openreview.net/pdf?id=LLETO26Ga2)
+
+    *Kyle Hsu, Will Dorrell James C. R. Whittingto, Jiajun Wu, Chelsea Finn*
+
+18. **Relaxed Multivariate Bernoulli Distribution and Its Applications to Deep Generative Models.** UAI, 2020. [paper](https://proceedings.mlr.press/v124/wang20b/wang20b.pdf)
+
+    *Xi Wang, Junming Yin*
+
+19. **DisUnknown: Distilling Unknown Factors for Disentanglement Learning.** ICCV, 2021. [paper](https://arxiv.org/pdf/2109.08090)
+
+    *Sitao Xiang, Yuming Gu, Pengda Xiang, Menglei Chai, Aho Li, Yajie Zhao, Mingming He*
+
+20. **Explicitly Disentangled Representations in Object-Centric Learning.** ArXiv, 2024. [paper](https://arxiv.org/pdf/2401.10148)
+
+    *Riccardo Majellaro, Jonathan Collu, Aske Plaat, Thomas M. Moreland*
+
+21. **On Disentangled Representations Learned from Correlated Data.** ICML, 2021. [paper](https://arxiv.org/pdf/2006.07886)
+
+    *Frederik Trauble, Elliot Creager, Niki Kilbertus, Francesco Locatello, Andrea Dittadi, Anirudh Goyal, Berhard Scholkopf, Stefan Bauer*
+
+####3.3 Semi-Supervised
     
-#### 3.3 Supervised
+1. **Weakly-supervised disentanglement without compromises.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/locatello20a/locatello20a.pdf)
+
+    *Francesco Locatello, Ben Poole, Cunnar Ratsch, Bernhard Sholkopf, Oliver Bachem, Michael Tshannen*
+
+
+#### 3.4 Supervised
 
 1. **Group-based Learning of Disentangled Representations with Generalizability for Novel Contents**. IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/0348.pdf)
 
@@ -197,7 +239,7 @@ More papers will be update.
 
     *Sina Hajimiri, Aryo Lotfi, Mahdieh Soleymani Baghshah*
     
-#### 3.3 Geodesic
+#### 3.5 Geodesic
 
 1. **VTAE: Variational Transformer Autoencoder with Manifolds Learning**. ArXiv, 2023. [paper](https://arxiv.org/abs/2304.00948)
 
@@ -221,6 +263,28 @@ More papers will be update.
 3. **Theory and Evaluation Metrics for Learning Disentangled Representations**. ArXiv, 2021. [paper](https://arxiv.org/abs/1908.09961)
 
     *Kien Do, Truyen Tran*
+  
     
+## Others (Related)
+
+1. **Stein’s Lemma for the Reparameterization Trick with Exponential Family Mixtures.** ArXiv, 2019. [paper](https://arxiv.org/pdf/1910.13398)
+
+    *Wu Lin, Mohammad Emtiyaz Kahn, Mark Schmidt*
+    
+2. **Deep Exponential Families.** ASISTATS, 2015. [paper](https://proceedings.mlr.press/v38/ranganath15.pdf)
+    
+    *Rajesh Ranganath, Linpeng Tang, Laurent Charlin, David M. Blei*
+    
+3. **Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/shi20f/shi20f.pdf)
+
+    *Wenxian Shi, Hao Zhou, Ning Miao, Lei Li*
+    
+4. **Gaussian Mixture Variational Autoencoder with Contrastive Learning for Multi-Label Classification.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/bai22c/bai22c.pdf)
+
+    *Junwen Bai, Shufeng Kong, Carla Gomes*
+
+5. **Deep Conditional Gaussian Mixture Model for Constrained Clustering.** NeurIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)
+
+    *Laura Manduchi, Kieran Chin-Cheong, Holger Michel, Sven Wellmann, Julia E. Vogt*
     
 More papers will be update.
